@@ -26,7 +26,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.38.2",
+    "@raycast/api": "^1.80.0",
     "lodash.startcase": "^4.4.0",
     "lodash.xor": "^4.5.0"
   },
