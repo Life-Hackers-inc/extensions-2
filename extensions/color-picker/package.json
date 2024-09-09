@@ -88,7 +88,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.46.0",
-    "@raycast/utils": "^1.4.7",
+    "@raycast/utils": "^1.4.8",
     "@types/execa": "^2.0.0",
     "color-convert": "^2.0.1",
     "execa": "^6.1.0"
