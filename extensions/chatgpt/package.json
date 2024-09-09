@@ -180,7 +180,7 @@
     "@raycast/api": "^1.48.8",
     "@raycast/utils": "^1.5.2",
     "@types/uuid": "^9.0.0",
-    "openai": "^3.2.1",
+    "openai": "^4.0.0",
     "say": "^0.16.0",
     "uuid": "^9.0.0"
   },
